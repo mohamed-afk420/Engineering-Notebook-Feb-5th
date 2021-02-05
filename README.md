@@ -4,6 +4,6 @@ I found a code that we can use for our project, the robot bull. But I'm also cur
 Anyways here are the images of this weeks work.
 # images
 
-<img src="images/m.jpg" alt="motaharu" width="200">
+<img src="images/m.png" alt="motaharu" width="200">
 
-<img src="images/o.jpg" alt="motaharu" width="200">
+<img src="images/o.png" alt="motaharu" width="200">
